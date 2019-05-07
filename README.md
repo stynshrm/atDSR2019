@@ -1,3 +1,1 @@
-# atDSR2019
-
-work at DSR
+This is a folder with the class material for [DSR](https://datascienceretreat.com/) course
